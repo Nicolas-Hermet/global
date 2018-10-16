@@ -1892,3 +1892,31 @@ h2{
 h1{
   font-size: 30px;
 }
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.infos{
+  padding-top: 15vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.pres{
+  margin-top: 5vh;
+}
+
+.justify{
+  text-align: justify;
+  text-align: center;
+}
+
+.poste{
+  margin-top: -2vh;
+  margin-bottom: 2vh;
+}
